@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Андрей 👋
 
-<!--
-**Andrey24-git/Andrey24-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь на **QA-инженера по автоматизации тестирования (Python)**.
 
-Here are some ideas to get you started:
+## Что изучаю
+- ручное тестирование: тест-кейсы, чек-листы, баг-репорты;
+- Python, pytest;
+- тестирование API: requests, Postman;
+- Git, SQL, основы Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- **[masterskaya-sloev](https://github.com/Andrey24-git/masterskaya-sloev)**: мини-приложение ВКонтакте для мастеров 3D-печати ([открыть](https://andrey24-git.github.io/masterskaya-sloev/))
+- **qa-api-tests**: автотесты API на pytest + requests *(в работе)*
